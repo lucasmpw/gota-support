@@ -1,4 +1,4 @@
-<!DOCTYPE - Gota App 💧
+#Suporte - Gota App 💧
 
 ## Sobre o App
 O Gota é um aplicativo de acompanhamento de hidratação que te ajuda a manter hábitos saudáveis de consumo de água.
